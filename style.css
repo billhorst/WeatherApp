@@ -1,0 +1,26 @@
+.main {
+	width: 900px;
+	margin: auto;
+	text-align: center;
+}
+
+.ccf {
+	font-size: 36pt;
+}
+
+#city {
+	font-size: 36pt;
+}
+
+#temperature {
+	font-size: 48pt;
+}
+
+#icon {
+	height: 100px;
+	width: 100px;
+}
+
+#description {
+	font-size: 36pt;
+}
